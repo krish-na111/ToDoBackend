@@ -1,14 +1,14 @@
-# Node.js template
+# MERN To-do-App
+A full-stack ToDo application with user authentication, task management, and filtering options.
+```md
+#backend
+This is the Express + MongoDB backend for the MERN ToDo application. It handles user authentication and task management.
 
-This is a Node.js project with an HTTP server.
+## Installation
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io).
+```bash
+git clone https://github.com/yourusername/todoapp-backend.git
+cd todoapp-backend
+npm install
 
-## How does this work?
 
-We run `yarn start` to start an HTTP server that runs on http://localhost:8080. You can open new or existing devtools with the + button next to the devtool tabs.
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
